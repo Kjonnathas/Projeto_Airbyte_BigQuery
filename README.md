@@ -4,4 +4,4 @@ Este projeto foi desenvolvido a fim de colocar em prática e assimilar o conheci
 
 # Arquitetura do Projeto
 
-![Arquitetura do Projeto]("C:\Users\jonna\Downloads\Projetos\BigQuery_Airbyte\Scripts\Projeto_Airbyte_BigQuery\images\arquitetura_projeto.png")
+![Arquitetura do Projeto](images/arquitetura_projeto.png)
